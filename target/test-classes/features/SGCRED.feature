@@ -9,4 +9,3 @@
     Y hace click en el boton ingresar
     Entonces el sistema debe mostrar la home SGCRED
 
-    
